@@ -1,0 +1,21 @@
+Since google drive does not preserve file times, the time when the file was written (at the end of the touch) is encoded in the filename.  These times are Eastern Daylight Savings time.
+
+Greg's notes:
+Stedman 10
+Stedman 4
+Stedman tenor
+Yorkshire 7
+Yorkshire sat out
+Cambridge 8
+
+-rwxrwxrwx  1 gfr  eng   28865678 Mar 25 10:53 STE-11.53.wav
+-rwxrwxrwx  1 gfr  eng   33769102 Mar 25 10:57 STE-11.57.wav
+-rwxrwxrwx  1 gfr  eng   67491982 Mar 25 11:03 STE-12.03.wav
+-rwxrwxrwx  1 gfr  eng   64497038 Mar 25 11:11 STE-12.11.wav
+-rwxrwxrwx  1 gfr  eng   73063054 Mar 25 11:21 STE-12.21.wav
+-rwxrwxrwx  1 gfr  eng  134457998 Mar 25 11:37 STE-12.37.wav
+-rwxrwxrwx  1 gfr  eng  140127886 Mar 25 12:00 STE-13.00.wav
+-rwxrwxrwx  1 gfr  eng   73441166 Mar 25 12:10 STE-13.10.wav
+-rwxrwxrwx  1 gfr  eng  153746574 Mar 25 12:25 STE-13.25.wav
+
+
